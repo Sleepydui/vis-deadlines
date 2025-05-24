@@ -1,12 +1,10 @@
-## HCI Deadlines
+## VIS Deadlines
 
-Countdown timers to keep track of a bunch of Human-Computer Interaction conference deadlines.
+Countdown timers to keep track of a bunch of Visualization conference deadlines.
 
-This is a fork of the [ai-deadlines](https://github.com/paperswithcode/ai-deadlines) website.
+This is a fork of the [HCI-deadlines](https://github.com/hci-deadlines/hci-deadlines.github.io) website.
+[HCI-deadlines] is a fork of the [ai-deadlines](https://github.com/paperswithcode/ai-deadlines) website.
 
-## Contributing
-
-Contributions are very welcome! To contribute please visit the repository with the [database of conferences](https://github.com/hci-deadlines/conf-database) and follow the instructions there!.
 
 ## License
 

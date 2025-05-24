@@ -1,13 +1,13 @@
-title: ⏰ HCI Conference Deadlines
-description: Countdowns to top HCI conference deadlines
+title: ⏰ VIS Conference Deadlines
+description: Countdowns to top VIS conference deadlines
 author: Andrea Bianchi
 
-domain: 'hci-deadlines.github.io'
+domain: 'vis-deadlines.github.io'
 baseurl: ''
 
-twitter_hashtag: hci-deadlines
+twitter_hashtag: vis-deadlines
 github_username: makinteractlab
-github_repo: hci-deadlines
+github_repo: vis-deadlines
 
 markdown: kramdown
 ga_id:
