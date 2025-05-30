@@ -163,7 +163,7 @@
   year: 2024
   id: chi24
   link: https://chi2024.acm.org
-  deadline: "2023-09-14T23:59:59"
+  deadline: '2023-09-14T23:59:59'
   timezone: UTC-12
   place: Honolulu, HI, USA
   date: May, 11-16, 2024
@@ -176,8 +176,8 @@
   year: 2025
   id: chi25
   link: https://chi2025.acm.org
-  deadline: "2024-09-12T23:59:59"
-  abstract_deadline: "2024-09-05T23:59:59"
+  deadline: '2024-09-12T23:59:59'
+  abstract_deadline: '2024-09-05T23:59:59'
   timezone: UTC-12
   place: Yokohama, Japan
   date: April, 26 - May, 1, 2025
@@ -189,8 +189,8 @@
   year: 2026
   id: chi26
   link: https://chi2026.acm.org
-  deadline: "2025-09-11T23:59:59"
-  abstract_deadline: "2025-09-04T23:59:59"
+  deadline: '2025-09-11T23:59:59'
+  abstract_deadline: '2025-09-04T23:59:59'
   timezone: UTC-12
   place: Barcelona, Spain
   date: April, 13-17, 2026
@@ -288,7 +288,7 @@
   id: siggraph24
   link: https://s2024.siggraph.org/
   deadline: '2024-01-24 22:00:00'
-  abstract_deadline: '2024-01-23 22:00:00'
+  abstract_deadline: '2024-01-23T22:00:00'
   timezone: UTC-12
   place: Denver, USA
   date: July 28 - August 1, 2024
