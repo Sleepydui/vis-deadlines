@@ -240,13 +240,25 @@
     }
 
     // add calendar button
-    var myCalendar = createCalendarFromObject({
-      id: '{{conf.id}}',
-      title: '{{conf.title}} {{conf.year}} deadline',
-      date: confDate.toDate(),
-      duration: 60,
-    })
-    document.querySelector('#{{conf.id}} .calendar')?.appendChild(myCalendar);
+    // var myCalendar = createCalendarFromObject({
+    //   id: '{{conf.id}}',
+    //   title: '{{conf.title}} {{conf.year}} deadline',
+    //   date: confDate.toDate(),
+    //   duration: 60,
+    // })
+    // document.querySelector('#{{conf.id}} .calendar')?.appendChild(myCalendar);
+
+    if (confDate.isValid()) {
+      var myCalendar = createCalendarFromObject({
+        id: '{{conf.id}}',
+        title: '{{conf.title}} {{conf.year}} deadline',
+        date: confDate.toDate(),
+        duration: 60,
+      });
+      document.querySelector('#{{conf.id}} .calendar')?.appendChild(myCalendar);
+    } else {
+      console.error('Invalid date:', confDate);
+    }
 
     // check if date has passed, add 'past' class to it
     var today = moment();
