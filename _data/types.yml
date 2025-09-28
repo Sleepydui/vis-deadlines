@@ -14,3 +14,6 @@
 - name: Multimedia
   sub: MM
   color: '#ff00ff'
+- name: Digital Humanities
+  sub: DH
+  color: '#0000ff'

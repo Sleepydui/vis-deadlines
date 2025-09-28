@@ -1,85 +1,15 @@
-- title: IEEE PacificVis
-  year: 2026
-  id: pacificvis26
-  full_name: IEEE Pacific Visualization Conference
-  link: https://pacificvis2026.github.io/
-  deadline: '2025-11-08T23:59:59'
-  abstract_deadline: '2025-11-01T23:59:59'
-  timezone: UTC-12
-  place: Sydney, Australia
-  date: April, 20-23, 2026
-  start: 2026-04-20
-  end: 2026-04-23
-  sub: VIS
-  note: Conference paper track
-
-- title: EuroVis
-  year: 2026
-  id: eurovis26
-  full_name: Eurographics Conference on Visualization
-  link: https://eurovis.org.uk/
-  deadline: '2025-12-03T23:59:59'
-  abstract_deadline: '2025-11-26T23:59:59'
-  timezone: UTC-12
-  place: Nottingham, United Kingdom
-  date: June, 08-12, 2026
-  start: 2026-06-08
-  end: 2026-06-12
-  sub: VIS
-
 - title: VIS
-  year: 2026
-  id: vis26
-  link: TBA
-  deadline: TBA
-  abstract_deadline: TBA
+  year: 2023
+  id: vis23
+  link: https://ieeevis.org/year/2023
+  deadline: '2023-03-31T23:59:59'
   timezone: UTC-12
-  place: Boston, USA
-  date: November, 8-13, 2026
-  start: 2026-11-08
-  end: 2026-11-13
+  place: Melbourne, Australia
+  date: October, 22-27, 2023
+  start: 2023-10-22
+  end: 2023-10-27
   sub: VIS
-
-- title: IUI
-  year: 2026
-  id: iui26
-  full_name: The Annual ACM Conference on Intelligent User Interfaces
-  link: https://iui.acm.org/2026
-  deadline: '2025-10-10T23:59:59'
-  abstract_deadline: '2025-10-03T23:59:59'
-  timezone: UTC-12
-  place: Paphos, Cyprus
-  date: March, 23-26, 2026
-  start: 2026-03-23
-  end: 2026-03-26
-  sub: HCI
-
-- title: WWW
-  year: 2026
-  id: www26
-  link: https://www2026.thewebconf.org/
-  full_name: THE ACM WEB CONFERENCE 2026
-  deadline: '2025-10-07T23:59:59'
-  abstract_deadline: '2025-09-30T23:59:59'
-  timezone: UTC-12
-  place: Dubai, United Arab Emirates
-  date: April, 13-17, 2026
-  start: 2026-04-13
-  end: 2026-04-17
-  sub: MM
-
-- title: SIGGRAPH
-  year: 2026
-  id: siggraph26
-  link: https://s2026.siggraph.org
-  deadline: TBA
-  abstract_deadline: TBA
-  timezone: UTC-12
-  place: Los Angeles, California
-  date: July, 19-23, 2026
-  start: 2026-07-19
-  end: 2026-07-23
-  sub: CG
+  note: Mandatory abstract deadline on March 21, 2023.
 
 - title: DH
   year: 2026
@@ -93,73 +23,6 @@
   start: 2026-07-27
   end: 2026-07-31
   sub: DH
-
-- title: DIS
-  year: 2026
-  id: dis26
-  full_name: ACM Designing Interactive Systems
-  link: https://dis.acm.org/2026/
-  deadline: '2026-01-19T23:59:59'
-  abstract_deadline: '2026-01-09T23:59:59'
-  timezone: UTC-12
-  place: Singapore
-  date: June, 13-17, 2026
-  start: 2026-06-13
-  end: 2026-06-17
-  sub: HCI
-
-- title: TEI
-  year: 2026
-  id: tei26
-  full_name: ACM International Conference on Tangible, Embedded, and Embodied Interaction
-  link: https://tei.acm.org/2026/
-  deadline: '2025-08-07T23:59:59'
-  abstract_deadline: '2025-07-31T23:59:59'
-  timezone: UTC-12
-  place: Chicago, Illinois, USA
-  date: March, 08-11, 2026
-  start: 2026-03-08
-  end: 2026-03-11
-  sub: HCI
-
-- title: CSCW (July cycle)
-  year: 2025
-  id: cscw25_july
-  link: https://cscw.acm.org/2025/index.php/submit-papers/
-  deadline: '2024-07-02T23:59:59'
-  timezone: UTC-12
-  place: Bergen, Norway
-  date: October, 18-22, 2025
-  start: 2025-10-18
-  end: 2025-10-22
-  sub: CSCW
-
-
-- title: CSCW
-  year: 2026
-  id: cscw26
-  link: https://cscw.acm.org/2026/papers.html
-  deadline: '2025-05-14T12:00:00'
-  timezone: EDT for new submission; AoE for revisions
-  place: USA (city TBA)
-  date: October, TBA, 2026
-  start: TBA
-  end: TBA
-  sub: CSCW
-
-
-- title: VIS
-  year: 2023
-  id: vis23
-  link: https://ieeevis.org/year/2023
-  deadline: '2023-03-31T23:59:59'
-  timezone: UTC-12
-  place: Melbourne, Australia
-  date: October, 22-27, 2023
-  start: 2023-10-22
-  end: 2023-10-27
-  sub: VIS
-  note: Mandatory abstract deadline on March 21, 2023.
 
 - title: VIS
   year: 2024
@@ -200,6 +63,19 @@
   end: 2025-11-07
   sub: VIS
 
+- title: VIS
+  year: 2026
+  id: vis26
+  link: TBA
+  deadline: TBA
+  abstract_deadline: TBA
+  timezone: UTC-12
+  place: Boston, USA
+  date: November, 8-13, 2026
+  start: 2026-11-08
+  end: 2026-11-13
+  sub: VIS
+
 - title: IEEE PacificVis
   year: 2024
   id: pacificvis24
@@ -230,6 +106,49 @@
   sub: VIS
   note: Conference paper track
 
+- title: IEEE PacificVis
+  year: 2026
+  id: pacificvis26
+  full_name: IEEE Pacific Visualization Conference
+  link: https://pacificvis2026.github.io/
+  deadline: '2025-11-08T23:59:59'
+  abstract_deadline: '2025-11-01T23:59:59'
+  timezone: UTC-12
+  place: Sydney, Australia
+  date: April, 20-23, 2026
+  start: 2026-04-20
+  end: 2026-04-23
+  sub: VIS
+  note: Conference paper track
+
+- title: DIS
+  year: 2026
+  id: dis26
+  full_name: ACM Designing Interactive Systems
+  link: https://dis.acm.org/2026/
+  deadline: '2026-01-19T23:59:59'
+  abstract_deadline: '2026-01-09T23:59:59'
+  timezone: UTC-12
+  place: Singapore
+  date: June, 13-17, 2026
+  start: 2026-06-13
+  end: 2026-06-17
+  sub: DH
+
+- title: TEI
+  year: 2026
+  id: tei26
+  full_name: ACM International Conference on Tangible, Embedded, and Embodied Interaction
+  link: https://tei.acm.org/2026/
+  deadline: '2025-08-07T23:59:59'
+  abstract_deadline: '2025-07-31T23:59:59'
+  timezone: UTC-12
+  place: Chicago, Illinois, USA
+  date: March, 08-11, 2026
+  start: 2026-03-08
+  end: 2026-03-11
+  sub: HCI
+
 - title: ChinaVis
   year: 2025
   id: chinavis25
@@ -242,6 +161,20 @@
   date: July, 19-22, 2025
   start: 2025-07-19
   end: 2025-07-22
+  sub: VIS
+
+- title: EuroVis
+  year: 2026
+  id: eurovis26
+  full_name: Eurographics Conference on Visualization
+  link: https://eurovis.org.uk/
+  deadline: '2025-12-03T23:59:59'
+  abstract_deadline: '2025-11-26T23:59:59'
+  timezone: UTC-12
+  place: Nottingham, United Kingdom
+  date: June, 08-12, 2026
+  start: 2026-06-08
+  end: 2026-06-12
   sub: VIS
 
 - title: EuroVis
@@ -408,6 +341,20 @@
   sub: CSCW
 
 - title: IUI
+  year: 2026
+  id: iui26
+  full_name: The Annual ACM Conference on Intelligent User Interfaces
+  link: https://iui.acm.org/2026
+  deadline: '2025-10-10T23:59:59'
+  abstract_deadline: '2025-10-03T23:59:59'
+  timezone: UTC-12
+  place: Paphos, Cyprus
+  date: March, 23-26, 2026
+  start: 2026-03-23
+  end: 2026-03-26
+  sub: HCI
+
+- title: IUI
   year: 2025
   id: iui25
   link: https://iui.acm.org/2025/call_for_papers.html
@@ -460,6 +407,19 @@
   end: 2025-08-14
   sub: CG
 
+- title: SIGGRAPH
+  year: 2026
+  id: siggraph26
+  link: https://s2026.siggraph.org
+  deadline: TBA
+  abstract_deadline: TBA
+  timezone: UTC-12
+  place: Los Angeles, California
+  date: July, 19-23, 2026
+  start: 2026-07-19
+  end: 2026-07-23
+  sub: CG
+
 - title: WWW
   year: 2025
   id: www25
@@ -471,6 +431,20 @@
   date: April, 28 - May, 2, 2025
   start: 2025-04-28
   end: 2025-05-02
+  sub: MM
+
+- title: WWW
+  year: 2026
+  id: www26
+  link: https://www2026.thewebconf.org/
+  full_name: THE ACM WEB CONFERENCE 2026
+  deadline: '2025-10-07T23:59:59'
+  abstract_deadline: '2025-09-30T23:59:59'
+  timezone: UTC-12
+  place: Dubai, United Arab Emirates
+  date: April, 13-17, 2026
+  start: 2026-04-13
+  end: 2026-04-17
   sub: MM
 
 - title: ACM MM
