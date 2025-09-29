@@ -72,7 +72,7 @@
   sub: HCI
   note: The conference website does not specify an exact cutoff time for the listed date. We therefore follow the common practice and treat the deadline as 23:59 AoE on that date.
 
-  - title: DH
+- title: DH
   year: 2026
   id: dh26
   link: https://dh2026.adho.org/
