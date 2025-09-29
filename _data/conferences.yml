@@ -11,19 +11,6 @@
   end: 2026-07-31
   sub: DH
 
-- title: VIS
-  year: 2026
-  id: vis26
-  link: TBA
-  deadline: TBA
-  abstract_deadline: TBA
-  timezone: UTC-12
-  place: Boston, USA
-  date: November, 8-13, 2026
-  start: 2026-11-08
-  end: 2026-11-13
-  sub: VIS
-
 - title: SIGGRAPH
   year: 2026
   id: siggraph26
@@ -36,6 +23,19 @@
   start: 2026-07-19
   end: 2026-07-23
   sub: CG
+
+# - title: VIS
+#   year: 2026
+#   id: vis26
+#   link: TBA
+#   deadline: TBA
+#   abstract_deadline: TBA
+#   timezone: UTC-12
+#   place: Boston, USA
+#   date: November, 8-13, 2026
+#   start: 2026-11-08
+#   end: 2026-11-13
+#   sub: VIS
 
 - title: WWW
   year: 2026
@@ -64,6 +64,7 @@
   start: 2026-03-23
   end: 2026-03-26
   sub: HCI
+  note: The conference website does not specify an exact cutoff time for the listed date. We therefore follow the common practice and treat the deadline as 23:59 AoE on that date.
 
 - title: IEEE PacificVis
   year: 2026
@@ -93,6 +94,7 @@
   start: 2026-06-08
   end: 2026-06-12
   sub: VIS
+  note: The conference website does not specify an exact cutoff time for the listed date. We therefore follow the common practice and treat the deadline as 23:59 AoE on that date.
 
 - title: DIS
   year: 2026
@@ -107,6 +109,7 @@
   start: 2026-06-13
   end: 2026-06-17
   sub: DH
+  note: The conference website does not specify an exact cutoff time for the listed date. We therefore follow the common practice and treat the deadline as 23:59 AoE on that date.
 
 - title: CHI
   year: 2026
@@ -290,19 +293,6 @@
   start: 2025-04-26
   end: 2025-05-01
   sub: HCI
-
-# - title: VIS
-#   year: 2024
-#   id: vis24Short
-#   link: https://ieeevis.org/year/2024/info/call-participation/shortpapers
-#   deadline: '2024-04-30T23:59:59'
-#   timezone: UTC-12
-#   place: St. Pete Beach, Florida
-#   date: October, 13-18, 2024
-#   start: 2024-10-13
-#   end: 2024-10-18
-#   sub: VIS
-#   note: Short papers deadeline, no abstract deadline.
 
 - title: UIST
   year: 2024
