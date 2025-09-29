@@ -1,42 +1,3 @@
-- title: DH
-  year: 2026
-  id: dh26
-  link: https://dh2026.adho.org/
-  deadline: TBA
-  abstract_deadline: TBA
-  timezone: UTC-12
-  place: Daejeon, South Korea
-  date: July, 27-31, 2026
-  start: 2026-07-27
-  end: 2026-07-31
-  sub: DH
-
-- title: SIGGRAPH
-  year: 2026
-  id: siggraph26
-  link: https://s2026.siggraph.org
-  deadline: TBA
-  abstract_deadline: TBA
-  timezone: UTC-12
-  place: Los Angeles, California
-  date: July, 19-23, 2026
-  start: 2026-07-19
-  end: 2026-07-23
-  sub: CG
-
-# - title: VIS
-#   year: 2026
-#   id: vis26
-#   link: TBA
-#   deadline: TBA
-#   abstract_deadline: TBA
-#   timezone: UTC-12
-#   place: Boston, USA
-#   date: November, 8-13, 2026
-#   start: 2026-11-08
-#   end: 2026-11-13
-#   sub: VIS
-
 - title: WWW
   year: 2026
   id: www26
@@ -110,6 +71,45 @@
   end: 2026-06-17
   sub: HCI
   note: The conference website does not specify an exact cutoff time for the listed date. We therefore follow the common practice and treat the deadline as 23:59 AoE on that date.
+
+  - title: DH
+  year: 2026
+  id: dh26
+  link: https://dh2026.adho.org/
+  deadline: TBA
+  abstract_deadline: TBA
+  timezone: UTC-12
+  place: Daejeon, South Korea
+  date: July, 27-31, 2026
+  start: 2026-07-27
+  end: 2026-07-31
+  sub: DH
+
+- title: SIGGRAPH
+  year: 2026
+  id: siggraph26
+  link: https://s2026.siggraph.org
+  deadline: TBA
+  abstract_deadline: TBA
+  timezone: UTC-12
+  place: Los Angeles, California
+  date: July, 19-23, 2026
+  start: 2026-07-19
+  end: 2026-07-23
+  sub: CG
+
+# - title: VIS
+#   year: 2026
+#   id: vis26
+#   link: TBA
+#   deadline: TBA
+#   abstract_deadline: TBA
+#   timezone: UTC-12
+#   place: Boston, USA
+#   date: November, 8-13, 2026
+#   start: 2026-11-08
+#   end: 2026-11-13
+#   sub: VIS
 
 - title: CHI
   year: 2026
