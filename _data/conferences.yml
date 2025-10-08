@@ -1,116 +1,3 @@
-- title: WWW
-  year: 2026
-  id: www26
-  link: https://www2026.thewebconf.org/
-  full_name: THE ACM WEB CONFERENCE 2026
-  deadline: '2025-10-07T23:59:59'
-  abstract_deadline: '2025-09-30T23:59:59'
-  timezone: UTC-12
-  place: Dubai, United Arab Emirates
-  date: April, 13-17, 2026
-  start: 2026-04-13
-  end: 2026-04-17
-  sub: MM
-
-- title: IUI
-  year: 2026
-  id: iui26
-  full_name: The Annual ACM Conference on Intelligent User Interfaces
-  link: https://iui.acm.org/2026
-  deadline: '2025-10-10T23:59:59'
-  abstract_deadline: '2025-10-03T23:59:59'
-  timezone: UTC-12
-  place: Paphos, Cyprus
-  date: March, 23-26, 2026
-  start: 2026-03-23
-  end: 2026-03-26
-  sub: HCI
-  note: The conference website does not specify an exact cutoff time for the listed date. We therefore follow the common practice and treat the deadline as 23:59 AoE on that date.
-
-- title: IEEE PacificVis
-  year: 2026
-  id: pacificvis26
-  full_name: IEEE Pacific Visualization Conference
-  link: https://pacificvis2026.github.io/
-  deadline: '2025-11-08T23:59:59'
-  abstract_deadline: '2025-11-01T23:59:59'
-  timezone: UTC-12
-  place: Sydney, Australia
-  date: April, 20-23, 2026
-  start: 2026-04-20
-  end: 2026-04-23
-  sub: VIS
-  note: Conference paper track
-
-- title: EuroVis
-  year: 2026
-  id: eurovis26
-  full_name: Eurographics Conference on Visualization
-  link: https://eurovis.org.uk/
-  deadline: '2025-12-03T23:59:59'
-  abstract_deadline: '2025-11-26T23:59:59'
-  timezone: UTC-12
-  place: Nottingham, United Kingdom
-  date: June, 08-12, 2026
-  start: 2026-06-08
-  end: 2026-06-12
-  sub: VIS
-  note: The conference website does not specify an exact cutoff time for the listed date. We therefore follow the common practice and treat the deadline as 23:59 AoE on that date.
-
-- title: DIS
-  year: 2026
-  id: dis26
-  full_name: ACM Designing Interactive Systems
-  link: https://dis.acm.org/2026/
-  deadline: '2026-01-19T23:59:59'
-  abstract_deadline: '2026-01-09T23:59:59'
-  timezone: UTC-12
-  place: Singapore
-  date: June, 13-17, 2026
-  start: 2026-06-13
-  end: 2026-06-17
-  sub: HCI
-  note: The conference website does not specify an exact cutoff time for the listed date. We therefore follow the common practice and treat the deadline as 23:59 AoE on that date.
-
-- title: DH
-  year: 2026
-  id: dh26
-  link: https://dh2026.adho.org/
-  deadline: TBA
-  abstract_deadline: TBA
-  timezone: UTC-12
-  place: Daejeon, South Korea
-  date: July, 27-31, 2026
-  start: 2026-07-27
-  end: 2026-07-31
-  sub: DH
-
-- title: SIGGRAPH
-  year: 2026
-  id: siggraph26
-  link: https://s2026.siggraph.org
-  deadline: TBA
-  abstract_deadline: TBA
-  timezone: UTC-12
-  place: Los Angeles, California
-  date: July, 19-23, 2026
-  start: 2026-07-19
-  end: 2026-07-23
-  sub: CG
-
-# - title: VIS
-#   year: 2026
-#   id: vis26
-#   link: TBA
-#   deadline: TBA
-#   abstract_deadline: TBA
-#   timezone: UTC-12
-#   place: Boston, USA
-#   date: November, 8-13, 2026
-#   start: 2026-11-08
-#   end: 2026-11-13
-#   sub: VIS
-
 - title: CHI
   year: 2026
   id: chi26
@@ -449,3 +336,120 @@
   start: 2023-04-23
   end: 2023-04-28
   sub: HCI
+
+### update at the bottom
+
+- title: WWW
+  year: 2026
+  id: www26
+  link: https://www2026.thewebconf.org/
+  full_name: THE ACM WEB CONFERENCE 2026
+  deadline: '2025-10-07T23:59:59'
+  abstract_deadline: '2025-09-30T23:59:59'
+  timezone: UTC-12
+  place: Dubai, United Arab Emirates
+  date: April, 13-17, 2026
+  start: 2026-04-13
+  end: 2026-04-17
+  sub: MM
+
+- title: IUI
+  year: 2026
+  id: iui26
+  full_name: The Annual ACM Conference on Intelligent User Interfaces
+  link: https://iui.acm.org/2026
+  deadline: '2025-10-10T23:59:59'
+  abstract_deadline: '2025-10-03T23:59:59'
+  timezone: UTC-12
+  place: Paphos, Cyprus
+  date: March, 23-26, 2026
+  start: 2026-03-23
+  end: 2026-03-26
+  sub: HCI
+  note: The conference website does not specify an exact cutoff time for the listed date. We therefore follow the common practice and treat the deadline as 23:59 AoE on that date.
+
+- title: IEEE PacificVis
+  year: 2026
+  id: pacificvis26
+  full_name: IEEE Pacific Visualization Conference
+  link: https://pacificvis2026.github.io/
+  deadline: '2025-11-08T23:59:59'
+  abstract_deadline: '2025-11-01T23:59:59'
+  timezone: UTC-12
+  place: Sydney, Australia
+  date: April, 20-23, 2026
+  start: 2026-04-20
+  end: 2026-04-23
+  sub: VIS
+  note: Conference paper track
+
+- title: EuroVis
+  year: 2026
+  id: eurovis26
+  full_name: Eurographics Conference on Visualization
+  link: https://eurovis.org.uk/
+  deadline: '2025-12-03T23:59:59'
+  abstract_deadline: '2025-11-26T23:59:59'
+  timezone: UTC-12
+  place: Nottingham, United Kingdom
+  date: June, 08-12, 2026
+  start: 2026-06-08
+  end: 2026-06-12
+  sub: VIS
+  note: The conference website does not specify an exact cutoff time for the listed date. We therefore follow the common practice and treat the deadline as 23:59 AoE on that date.
+
+- title: DIS
+  year: 2026
+  id: dis26
+  full_name: ACM Designing Interactive Systems
+  link: https://dis.acm.org/2026/
+  deadline: '2026-01-19T23:59:59'
+  abstract_deadline: '2026-01-09T23:59:59'
+  timezone: UTC-12
+  place: Singapore
+  date: June, 13-17, 2026
+  start: 2026-06-13
+  end: 2026-06-17
+  sub: HCI
+  note: The conference website does not specify an exact cutoff time for the listed date. We therefore follow the common practice and treat the deadline as 23:59 AoE on that date.
+
+- title: DH
+  year: 2026
+  id: dh26
+  link: https://dh2026.adho.org/
+  deadline: TBA
+  abstract_deadline: TBA
+  timezone: UTC-12
+  place: Daejeon, South Korea
+  date: July, 27-31, 2026
+  start: 2026-07-27
+  end: 2026-07-31
+  sub: DH
+
+- title: SIGGRAPH
+  year: 2026
+  id: siggraph26
+  link: https://s2026.siggraph.org
+  deadline: TBA
+  abstract_deadline: TBA
+  timezone: UTC-12
+  place: Los Angeles, California
+  date: July, 19-23, 2026
+  start: 2026-07-19
+  end: 2026-07-23
+  sub: CG
+
+# - title: VIS
+#   year: 2026
+#   id: vis26
+#   link: TBA
+#   deadline: TBA
+#   abstract_deadline: TBA
+#   timezone: UTC-12
+#   place: Boston, USA
+#   date: November, 8-13, 2026
+#   start: 2026-11-08
+#   end: 2026-11-13
+#   sub: VIS
+
+
