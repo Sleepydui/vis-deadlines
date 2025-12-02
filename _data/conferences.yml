@@ -417,8 +417,7 @@
   year: 2026
   id: dh26
   link: https://dh2026.adho.org/
-  deadline: TBA
-  abstract_deadline: TBA
+  deadline: '2025-12-15T02:59:59'
   timezone: UTC-12
   place: Daejeon, South Korea
   date: July, 27-31, 2026
@@ -430,14 +429,16 @@
   year: 2026
   id: siggraph26
   link: https://s2026.siggraph.org
-  deadline: TBA
-  abstract_deadline: TBA
+  deadline: '2026-01-23T23:59:59'
+  abstract_deadline: '2026-01-22T23:59:59'
   timezone: UTC-12
   place: Los Angeles, California
   date: July, 19-23, 2026
   start: 2026-07-19
   end: 2026-07-23
   sub: CG
+  note: 'Technical Papers deadlines: Submission Form Jan 15; Paper Deadline Jan 22; Upload Deadline Jan 23 (AoE)'
+
 
 # - title: VIS
 #   year: 2026
