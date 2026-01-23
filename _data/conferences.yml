@@ -1,3 +1,5 @@
+### scroll to the bottom to update
+
 - title: CHI
   year: 2026
   id: chi26
@@ -337,8 +339,6 @@
   end: 2023-04-28
   sub: HCI
 
-### update at the bottom
-
 - title: WWW
   year: 2026
   id: www26
@@ -440,17 +440,91 @@
   note: 'Technical Papers deadlines: Submission Form Jan 15; Paper Deadline Jan 22; Upload Deadline Jan 23 (AoE)'
 
 
-# - title: VIS
+- title: VIS
+  year: 2026
+  id: vis26
+  link: https://ieeevis.org/year/2026/welcome/
+  deadline: 2026-03-31 23:59
+  abstract_deadline: 2026-03-21 23:59
+  timezone: UTC-12
+  place: Boston, USA
+  date: November 8-13, 2026
+  start: 2026-11-08
+  end: 2026-11-13
+  sub: VIS
+
+
+- title: UIST
+  year: 2026
+  id: uist26
+  link: https://uist.acm.org/2026/
+  deadline: 2026-03-31 23:59
+  abstract_deadline: 2026-03-24 23:59
+  timezone: UTC-12
+  place: Detroit, MI, USA
+  date: November 2-5, 2026
+  start: 2026-11-02
+  end: 2026-11-05
+  sub: HCI
+
+
+# ===== 2026 CFP Watchlist (Not Open Yet) =====
+
+# - title: ACM MM
 #   year: 2026
-#   id: vis26
-#   link: TBA
+#   id: mm26
+#   link: https://www.acmmm.org/
+#   cfp_expected: 2025-03 ~ 2025-05
 #   deadline: TBA
 #   abstract_deadline: TBA
 #   timezone: UTC-12
-#   place: Boston, USA
-#   date: November, 8-13, 2026
-#   start: 2026-11-08
-#   end: 2026-11-13
+#   place: TBA
+#   date: TBA
+#   start: TBA
+#   end: TBA
+#   sub: MM
+
+# - title: SIGGRAPH
+#   year: 2026
+#   id: siggraph26
+#   link: https://s2026.siggraph.org/
+#   cfp_expected: 2025-08 ~ 2025-10
+#   deadline: TBA
+#   abstract_deadline: TBA
+#   timezone: UTC-12
+#   place: TBA
+#   date: TBA
+#   start: TBA
+#   end: TBA
+#   sub: CG
+
+# - title: CSCW
+#   year: 2026
+#   id: cscw26_additional_cycle
+#   link: https://cscw.acm.org/
+#   cfp_expected: 2025-06 ~ 2025-08
+#   deadline: TBA
+#   abstract_deadline: TBA
+#   timezone: UTC-12
+#   place: TBA
+#   date: TBA
+#   start: TBA
+#   end: TBA
+#   sub: CSCW
+#   note: Additional review cycle for CSCW 2026
+
+# - title: ChinaVis
+#   year: 2026
+#   id: chinavis26
+#   link: http://chinavis.org/
+#   cfp_expected: 2025-12 ~ 2026-01
+#   deadline: TBA
+#   abstract_deadline: TBA
+#   timezone: UTC-12
+#   place: TBA
+#   date: TBA
+#   start: TBA
+#   end: TBA
 #   sub: VIS
 
 
