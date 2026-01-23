@@ -484,20 +484,6 @@
 #   end: TBA
 #   sub: MM
 
-# - title: SIGGRAPH
-#   year: 2026
-#   id: siggraph26
-#   link: https://s2026.siggraph.org/
-#   cfp_expected: 2025-08 ~ 2025-10
-#   deadline: TBA
-#   abstract_deadline: TBA
-#   timezone: UTC-12
-#   place: TBA
-#   date: TBA
-#   start: TBA
-#   end: TBA
-#   sub: CG
-
 # - title: CSCW
 #   year: 2026
 #   id: cscw26_additional_cycle
