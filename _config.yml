@@ -3,7 +3,7 @@ description: Countdowns to top VIS conference deadlines
 author: Andrea Bianchi
 
 baseurl: '/vis-deadlines'
-domain: 'sleepydui.github.io'
+domain: 'vis-deadlines'
 
 twitter_hashtag: vis-deadlines
 github_username: makinteractlab
