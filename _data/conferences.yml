@@ -15,20 +15,20 @@
   sub: MM
   note: Main track uses contribution registration on March 25, paper submission on April 1, and deadlines are AoE.
 
-# - title: ChinaVis
-#   year: 2026
-#   id: chinavis26
-#   full_name: China Visualization and Visual Analytics Conference
-#   link: http://chinavis.org/
-#   deadline: TBA
-#   abstract_deadline: TBA
-#   timezone: UTC-12
-#   place: Guiyang, China
-#   date: TBA
-#   start: TBA
-#   end: TBA
-#   sub: VIS
-#   note: As of 2026-04-02, no official ChinaVis 2026 CFP page with dates was found. The host city Guiyang was announced by CSIG in July 2025.
+- title: ChinaVis
+  year: 2026
+  id: chinavis26
+  full_name: China Visualization and Visual Analytics Conference
+  link: https://www.chinavis.org/2026/zh/callforpaper/
+  deadline: '2026-05-15T23:59:00'
+  abstract_deadline: '2026-05-10T23:59:00'
+  timezone: UTC-12
+  place: Guiyang, China
+  date: July, 19-22, 2026
+  start: 2026-07-19
+  end: 2026-07-22
+  sub: VIS
+  note:
 
 
 - title: CHI
