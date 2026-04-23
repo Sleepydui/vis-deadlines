@@ -1,5 +1,19 @@
 ### scroll to the bottom to update
 
+- title: ICDE
+  year: 2026
+  id: icde26
+  full_name: IEEE 42nd International Conference on Data Engineering
+  link: https://icde2026.github.io/
+  deadline: '2025-06-18T17:00:00'
+  timezone: UTC-7
+  place: Montreal, Canada
+  date: May 4-8, 2026
+  start: 2026-05-04
+  end: 2026-05-08
+  sub: VIS
+  note: Research track uses two submission rounds. First Round submission due June 18, 2025; Second Round submission due October 27, 2025. All deadlines are 5:00PM Pacific Time. There is no separate abstract deadline.
+
 - title: ACM MM
   year: 2026
   id: mm26
