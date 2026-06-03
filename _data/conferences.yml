@@ -1,4 +1,214 @@
-### scroll to the bottom to update
+
+- title: ICDE
+  year: 2027
+  id: icde27
+  full_name: IEEE 43rd International Conference on Data Engineering
+  link: https://icde2027.github.io/
+  deadline: '2026-06-11T17:00:00'
+  timezone: UTC-7
+  place: Copenhagen, Denmark
+  date: May 17-21, 2027
+  start: 2027-05-17
+  end: 2027-05-21
+  sub: VIS
+  note: Research track has two independent submission rounds. Round 1 submission due June 11, 2026; Round 2 submission due November 11, 2026. All deadlines are 5:00 PM Pacific Time. ICDE is categorized under VIS here only because the local taxonomy does not include a DB/Data Engineering label.
+
+- title: TEI
+  year: 2027
+  id: tei27
+  full_name: ACM International Conference on Tangible, Embedded, and Embodied Interaction
+  link: https://tei.acm.org/2027/
+  deadline: '2026-07-31T23:59:59'
+  timezone: UTC-12
+  place: Lisbon, Portugal
+  date: January 24-27, 2027
+  start: 2027-01-24
+  end: 2027-01-27
+  sub: HCI
+  note: Papers and Pictorials deadline should be checked again once the full CFP page is published. Current public conference page confirms TEI 2027 dates and location.
+
+- title: IUI
+  year: 2027
+  id: iui27
+  full_name: The Annual ACM Conference on Intelligent User Interfaces
+  link: https://iui.acm.org/2027/
+  deadline: '2026-08-20T23:59:59'
+  abstract_deadline: '2026-08-13T23:59:59'
+  timezone: UTC-12
+  place: Helsinki, Finland
+  date: February 8-11, 2027
+  start: 2027-02-08
+  end: 2027-02-11
+  sub: HCI
+  note: All deadlines are end of day Anywhere on Earth.
+
+- title: CHI
+  year: 2027
+  id: chi27
+  full_name: ACM CHI Conference on Human Factors in Computing Systems
+  link: https://chi2027.acm.org/
+  deadline: '2026-09-10T23:59:59'
+  timezone: UTC-12
+  place: Pittsburgh, Pennsylvania, USA
+  date: May 10-14, 2027
+  start: 2027-05-10
+  end: 2027-05-14
+  sub: HCI
+  note: CHI 2027 has no abstract deadline. Full paper deadline is September 10, 2026, including videos and supplementary materials.
+
+# ===== to be updated =====
+
+# - title: CSCW
+#   year: 2027
+#   id: cscw27_rolling
+#   full_name: ACM Conference on Computer-Supported Cooperative Work and Social Computing
+#   link: https://cscw.acm.org/rolling.html
+#   deadline: TBA
+#   timezone: UTC-12
+#   place: TBA
+#   date: TBA
+#   start: TBA
+#   end: TBA
+#   sub: CSCW
+#   note: CSCW uses a rolling, journal-style submission model for 2027 and beyond. There are no fixed submission deadlines; papers may be submitted whenever they are ready.
+
+
+# - title: VIS
+#   year: 2027
+#   id: vis27
+#   full_name: IEEE Visualization and Visual Analytics Conference
+#   link: https://ieeevis.org/
+#   deadline: TBA
+#   abstract_deadline: TBA
+#   timezone: UTC-12
+#   place: TBA
+#   date: TBA
+#   start: TBA
+#   end: TBA
+#   sub: VIS
+#   note: Full paper CFP deadline is TBA. Expected around March 2027 if following recent IEEE VIS cycles.
+
+# - title: UIST
+#   year: 2027
+#   id: uist27
+#   full_name: ACM Symposium on User Interface Software and Technology
+#   link: https://uist.acm.org/
+#   deadline: TBA
+#   abstract_deadline: TBA
+#   timezone: UTC-12
+#   place: TBA
+#   date: TBA
+#   start: TBA
+#   end: TBA
+#   sub: HCI
+#   note: Full paper CFP deadline is TBA. Expected around March or April 2027 if following recent UIST cycles.
+
+# - title: WWW
+#   year: 2027
+#   id: www27
+#   full_name: The ACM Web Conference 2027
+#   link: https://thewebconf.org/
+#   deadline: TBA
+#   abstract_deadline: TBA
+#   timezone: UTC-12
+#   place: Dublin, Ireland
+#   date: TBA
+#   start: TBA
+#   end: TBA
+#   sub: MM
+#   note: The ACM Web Conference 2027 will be held in Dublin, Ireland. Dates and CFP deadline are TBA.
+
+# - title: ACM MM
+#   year: 2027
+#   id: mm27
+#   full_name: ACM Multimedia 2027
+#   link: https://www.acmmm.org/
+#   deadline: TBA
+#   abstract_deadline: TBA
+#   timezone: UTC-12
+#   place: Hong Kong
+#   date: TBA
+#   start: TBA
+#   end: TBA
+#   sub: MM
+#   note: ACM MM 2027 will be held in Hong Kong. Dates and CFP deadline are TBA.
+
+# - title: PacificVis
+#   year: 2027
+#   id: pacificvis27
+#   full_name: IEEE Pacific Visualization Conference
+#   link: https://pacificvis.github.io/
+#   deadline: TBA
+#   abstract_deadline: TBA
+#   timezone: UTC-12
+#   place: TBA
+#   date: TBA
+#   start: TBA
+#   end: TBA
+#   sub: VIS
+#   note: Conference paper track. CFP deadline is TBA. Expected around November 2026 if following recent PacificVis cycles.
+
+# - title: EuroVis
+#   year: 2027
+#   id: eurovis27
+#   full_name: Eurographics Conference on Visualization
+#   link: https://www.eurovis.org/
+#   deadline: TBA
+#   abstract_deadline: TBA
+#   timezone: UTC-12
+#   place: TBA
+#   date: TBA
+#   start: TBA
+#   end: TBA
+#   sub: VIS
+#   note: Full paper CFP deadline is TBA. Expected around late November or early December 2026 if following recent EuroVis cycles.
+
+# - title: ChinaVis
+#   year: 2027
+#   id: chinavis27
+#   full_name: China Visualization and Visual Analytics Conference
+#   link: https://www.chinavis.org/
+#   deadline: TBA
+#   abstract_deadline: TBA
+#   timezone: UTC+8
+#   place: TBA
+#   date: TBA
+#   start: TBA
+#   end: TBA
+#   sub: VIS
+#   note: CFP expected around late 2026 or early 2027. Deadline, location, and conference dates are TBA.
+
+# - title: DIS
+#   year: 2027
+#   id: dis27
+#   full_name: ACM Designing Interactive Systems
+#   link: https://dis.acm.org/
+#   deadline: TBA
+#   abstract_deadline: TBA
+#   timezone: UTC-12
+#   place: TBA
+#   date: TBA
+#   start: TBA
+#   end: TBA
+#   sub: HCI
+#   note: Full paper CFP deadline is TBA. Expected around January 2027 if following recent DIS cycles.
+
+# - title: SIGGRAPH
+#   year: 2027
+#   id: siggraph27
+#   full_name: ACM SIGGRAPH 2027
+#   link: https://www.siggraph.org/
+#   deadline: TBA
+#   abstract_deadline: TBA
+#   timezone: UTC-12
+#   place: TBA
+#   date: TBA
+#   start: TBA
+#   end: TBA
+#   sub: CG
+#   note: Technical Papers deadline is TBA. Expected around January 2027 if following recent SIGGRAPH cycles.
+
+
 
 - title: ICDE
   year: 2026
@@ -36,13 +246,13 @@
   link: https://www.chinavis.org/2026/zh/callforpaper/
   deadline: '2026-05-15T23:59:00'
   abstract_deadline: '2026-05-10T23:59:00'
-  timezone: UTC-12
+  timezone: UTC+8
   place: Guiyang, China
   date: July, 19-22, 2026
   start: 2026-07-19
   end: 2026-07-22
   sub: VIS
-  note:
+  note: All deadlines are 23:59 Beijing Time.
 
 
 - title: CHI
