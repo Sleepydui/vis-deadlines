@@ -18,14 +18,14 @@
   id: tei27
   full_name: ACM International Conference on Tangible, Embedded, and Embodied Interaction
   link: https://tei.acm.org/2027/
-  deadline: '2026-07-31T23:59:59'
+  deadline: '2026-08-06T23:59:59'
   timezone: UTC-12
   place: Lisbon, Portugal
   date: January 24-27, 2027
   start: 2027-01-24
   end: 2027-01-27
   sub: HCI
-  note: Papers and Pictorials deadline should be checked again once the full CFP page is published. Current public conference page confirms TEI 2027 dates and location.
+  note: Theme: The Body in Space. Notification of conditional acceptance: October 14, 2026; revision deadline: November 10, 2026; final notification: November 13, 2026; publication-ready deadline: November 19, 2026.
 
 - title: IUI
   year: 2027
@@ -40,7 +40,6 @@
   start: 2027-02-08
   end: 2027-02-11
   sub: HCI
-  note: All deadlines are end of day Anywhere on Earth.
 
 - title: CHI
   year: 2027
@@ -54,7 +53,7 @@
   start: 2027-05-10
   end: 2027-05-14
   sub: HCI
-  note: CHI 2027 has no abstract deadline. Full paper deadline is September 10, 2026, including videos and supplementary materials.
+
 
 # ===== to be updated =====
 
