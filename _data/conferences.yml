@@ -13,19 +13,19 @@
   sub: VIS
   note: Research track has two independent submission rounds. Round 1 submission due June 11, 2026; Round 2 submission due November 11, 2026. All deadlines are 5:00 PM Pacific Time. ICDE is categorized under VIS here only because the local taxonomy does not include a DB/Data Engineering label.
 
-# - title: TEI
-#   year: 2027
-#   id: tei27
-#   full_name: ACM International Conference on Tangible, Embedded, and Embodied Interaction
-#   link: https://tei.acm.org/2027/
-#   deadline: '2026-08-06T23:59:59'
-#   timezone: UTC-12
-#   place: Lisbon, Portugal
-#   date: January 24-27, 2027
-#   start: 2027-01-24
-#   end: 2027-01-27
-#   sub: HCI
-#   note: Theme: The Body in Space.
+- title: TEI
+  year: 2027
+  id: tei27
+  full_name: ACM International Conference on Tangible, Embedded, and Embodied Interaction
+  link: https://tei.acm.org/2027/
+  deadline: '2026-08-06T23:59:59'
+  timezone: UTC-12
+  place: Lisbon, Portugal
+  date: January 24-27, 2027
+  start: 2027-01-24
+  end: 2027-01-27
+  sub: HCI
+  note: Theme: The Body in Space.
 
 - title: IUI
   year: 2027
