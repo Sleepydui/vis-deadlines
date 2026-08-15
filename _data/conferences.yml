@@ -1,4 +1,35 @@
 
+
+- title: PacificVis
+  year: 2027
+  id: pacificvis27
+  full_name: IEEE Pacific Visualization Conference
+  link: https://pacificvis2027.github.io/
+  deadline: 2026-09-08
+  abstract_deadline: 2026-09-01
+  timezone: UTC-12
+  place: Busan, South Korea
+  date: April 19-22, 2027
+  start: 2027-04-19
+  end: 2027-04-22
+  sub: VIS
+
+- title: DIS
+  year: 2027
+  id: dis27
+  full_name: ACM Designing Interactive Systems
+  link: https://dis.acm.org/2027/
+  deadline: 2027-01-18
+  abstract_deadline: 2027-01-11
+  timezone: UTC-12
+  place: Stockholm, Sweden
+  date: June 28 - July 2, 2027
+  start: 2027-06-28
+  end: 2027-07-02
+  sub: HCI
+
+###
+
 - title: ICDE
   year: 2027
   id: icde27
@@ -57,19 +88,34 @@
 
 # ===== to be updated =====
 
+# - title: SIGGRAPH
+#   year: 2027
+#   id: siggraph27
+#   full_name: ACM SIGGRAPH 2027
+#   link: https://www.siggraph.org/
+#   deadline: TBA
+#   abstract_deadline: TBA
+#   timezone: UTC-12
+#   place: Anaheim, California, USA
+#   date: August 8-12, 2027
+#   start: 2027-08-08
+#   end: 2027-08-12
+#   sub: CG
+#   note: SIGGRAPH 2027 will be held in Anaheim, California, August 8-12, 2027. Technical Papers deadline is TBA.
+
 # - title: CSCW
 #   year: 2027
 #   id: cscw27_rolling
 #   full_name: ACM Conference on Computer-Supported Cooperative Work and Social Computing
-#   link: https://cscw.acm.org/rolling.html
-#   deadline: TBA
+#   link: https://cscw.acm.org/2026/rolling.html
+#   deadline: Rolling
 #   timezone: UTC-12
 #   place: TBA
 #   date: TBA
 #   start: TBA
 #   end: TBA
 #   sub: CSCW
-#   note: CSCW uses a rolling, journal-style submission model for 2027 and beyond. There are no fixed submission deadlines; papers may be submitted whenever they are ready.
+#   note: CSCW 2027 and beyond uses a rolling journal-style model. Papers are submitted to PACM HCI/CSCW or eligible ToCHI tracks, with no fixed annual conference submission deadline. Accepted papers may request a presentation slot at a subsequent CSCW conference.
 
 
 # - title: VIS
@@ -132,21 +178,6 @@
 #   sub: MM
 #   note: ACM MM 2027 will be held in Hong Kong. Dates and CFP deadline are TBA.
 
-# - title: PacificVis
-#   year: 2027
-#   id: pacificvis27
-#   full_name: IEEE Pacific Visualization Conference
-#   link: https://pacificvis.github.io/
-#   deadline: TBA
-#   abstract_deadline: TBA
-#   timezone: UTC-12
-#   place: TBA
-#   date: TBA
-#   start: TBA
-#   end: TBA
-#   sub: VIS
-#   note: Conference paper track. CFP deadline is TBA. Expected around November 2026 if following recent PacificVis cycles.
-
 # - title: EuroVis
 #   year: 2027
 #   id: eurovis27
@@ -176,36 +207,6 @@
 #   end: TBA
 #   sub: VIS
 #   note: CFP expected around late 2026 or early 2027. Deadline, location, and conference dates are TBA.
-
-# - title: DIS
-#   year: 2027
-#   id: dis27
-#   full_name: ACM Designing Interactive Systems
-#   link: https://dis.acm.org/
-#   deadline: TBA
-#   abstract_deadline: TBA
-#   timezone: UTC-12
-#   place: TBA
-#   date: TBA
-#   start: TBA
-#   end: TBA
-#   sub: HCI
-#   note: Full paper CFP deadline is TBA. Expected around January 2027 if following recent DIS cycles.
-
-# - title: SIGGRAPH
-#   year: 2027
-#   id: siggraph27
-#   full_name: ACM SIGGRAPH 2027
-#   link: https://www.siggraph.org/
-#   deadline: TBA
-#   abstract_deadline: TBA
-#   timezone: UTC-12
-#   place: TBA
-#   date: TBA
-#   start: TBA
-#   end: TBA
-#   sub: CG
-#   note: Technical Papers deadline is TBA. Expected around January 2027 if following recent SIGGRAPH cycles.
 
 
 
